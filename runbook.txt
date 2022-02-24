@@ -1,0 +1,5 @@
+python ./gen_data.py build_filesystems \
+    -is ./tmp/noiclapa01.xlsx \
+    -es ./tmp/'NOI export_policy_rules.xlsx'  \
+    -ep yok2 -fb GSE-FB01 \
+    -sn 'Sheet1' --output_basename output

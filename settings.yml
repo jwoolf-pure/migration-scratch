@@ -1,0 +1,11 @@
+---
+
+VALID_USERS:
+  - root
+  - levenson
+  - jwoolf
+
+RULES:
+  rule1: '172.19.0.0/17(ro,root_squash,fileid_32bit)'
+  rule2: '172.19.0.0/17(ro,root_squash,fileid_32bit) 10.10.0.0/16(rw,root_squash,fileid_32bit)'
+  yok2: '172.19.0.0/17(ro,root_squash,fileid_32bit) 10.10.0.0/16(rw,root_squash,fileid_32bit)'

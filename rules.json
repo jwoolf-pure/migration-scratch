@@ -1,0 +1,1696 @@
+{
+    "GSE-FB01": [
+        {
+            "name": "bu_Volume",
+            "rules": ""
+        },
+        {
+            "name": "bu_vol0",
+            "rules": ""
+        },
+        {
+            "name": "AMS_TRO_builds",
+            "rules": ""
+        },
+        {
+            "name": "APAC_OCUM_DB",
+            "rules": ""
+        },
+        {
+            "name": "APAC_OCUM_DB1",
+            "rules": ""
+        },
+        {
+            "name": "DIP",
+            "rules": ""
+        },
+        {
+            "name": "DIP_Verification",
+            "rules": ""
+        },
+        {
+            "name": "Denali_test_scratch",
+            "rules": ""
+        },
+        {
+            "name": "Denali_vol0",
+            "rules": ""
+        },
+        {
+            "name": "Doberman_archive",
+            "rules": ""
+        },
+        {
+            "name": "HPNFC_space",
+            "rules": ""
+        },
+        {
+            "name": "IC616",
+            "rules": ""
+        },
+        {
+            "name": "IC617",
+            "rules": ""
+        },
+        {
+            "name": "IC617_ws3",
+            "rules": ""
+        },
+        {
+            "name": "IPG_mpa_dv",
+            "rules": ""
+        },
+        {
+            "name": "IPG_mpa_dv_archive",
+            "rules": ""
+        },
+        {
+            "name": "IP_modeling",
+            "rules": ""
+        },
+        {
+            "name": "SFI_grid2",
+            "rules": ""
+        },
+        {
+            "name": "system_&_verification_group_SVG_PE",
+            "rules": ""
+        },
+        {
+            "name": "TI_QRC_loaner",
+            "rules": ""
+        },
+        {
+            "name": "XCP_catalog",
+            "rules": ""
+        },
+        {
+            "name": "agarwalp_vol",
+            "rules": ""
+        },
+        {
+            "name": "agarwalp_vol1",
+            "rules": ""
+        },
+        {
+            "name": "aix",
+            "rules": ""
+        },
+        {
+            "name": "ambit_regress",
+            "rules": ""
+        },
+        {
+            "name": "amit_testing",
+            "rules": ""
+        },
+        {
+            "name": "amscm_vol02_t1nb",
+            "rules": ""
+        },
+        {
+            "name": "ankur_perf_test",
+            "rules": ""
+        },
+        {
+            "name": "anls_vol1",
+            "rules": ""
+        },
+        {
+            "name": "anujv_vol",
+            "rules": ""
+        },
+        {
+            "name": "anujv_vol1",
+            "rules": ""
+        },
+        {
+            "name": "ashishku_test_pbs_spool",
+            "rules": ""
+        },
+        {
+            "name": "ashutosh_test",
+            "rules": ""
+        },
+        {
+            "name": "atulg_poc",
+            "rules": ""
+        },
+        {
+            "name": "audio_dlb",
+            "rules": ""
+        },
+        {
+            "name": "avr_hls_cdstools",
+            "rules": ""
+        },
+        {
+            "name": "avr_hls_libs",
+            "rules": ""
+        },
+        {
+            "name": "avr_hls_pkgs",
+            "rules": ""
+        },
+        {
+            "name": "avr_hls_share",
+            "rules": ""
+        },
+        {
+            "name": "avs151rel_121015specversion",
+            "rules": ""
+        },
+        {
+            "name": "avs_cast_sol",
+            "rules": ""
+        },
+        {
+            "name": "avs_dev_Seamless",
+            "rules": ""
+        },
+        {
+            "name": "avs_dev_lsf",
+            "rules": ""
+        },
+        {
+            "name": "avs_dev_perspec_t1nb",
+            "rules": ""
+        },
+        {
+            "name": "avs_dev_rels",
+            "rules": ""
+        },
+        {
+            "name": "avs_dev_sge",
+            "rules": ""
+        },
+        {
+            "name": "avs_jvman",
+            "rules": ""
+        },
+        {
+            "name": "avs_vol02_vorm",
+            "rules": ""
+        },
+        {
+            "name": "avs_vol03_conformal",
+            "rules": ""
+        },
+        {
+            "name": "avspoc_151rel_010916_specv2",
+            "rules": ""
+        },
+        {
+            "name": "avspoc_avs151_rel_cust",
+            "rules": ""
+        },
+        {
+            "name": "backup_logs",
+            "rules": ""
+        },
+        {
+            "name": "beas_qa",
+            "rules": ""
+        },
+        {
+            "name": "cad_tools",
+            "rules": ""
+        },
+        {
+            "name": "catena_noida1",
+            "rules": ""
+        },
+        {
+            "name": "catenapv_t2b_001",
+            "rules": ""
+        },
+        {
+            "name": "cdnshelp_flow",
+            "rules": ""
+        },
+        {
+            "name": "cic",
+            "rules": ""
+        },
+        {
+            "name": "cic_DMS",
+            "rules": ""
+        },
+        {
+            "name": "cic_ade",
+            "rules": ""
+        },
+        {
+            "name": "cic_ade_scratch",
+            "rules": ""
+        },
+        {
+            "name": "cic_catena_build",
+            "rules": ""
+        },
+        {
+            "name": "cic_catena_vol01",
+            "rules": ""
+        },
+        {
+            "name": "cic_fsc_vol05_in",
+            "rules": ""
+        },
+        {
+            "name": "cic_icft",
+            "rules": ""
+        },
+        {
+            "name": "cic_magestic_noida_T2B",
+            "rules": ""
+        },
+        {
+            "name": "cic_oa",
+            "rules": ""
+        },
+        {
+            "name": "cic_pd_scratch",
+            "rules": ""
+        },
+        {
+            "name": "cic_pdk",
+            "rules": ""
+        },
+        {
+            "name": "cic_pdstore",
+            "rules": ""
+        },
+        {
+            "name": "cic_pe",
+            "rules": ""
+        },
+        {
+            "name": "cic_perf",
+            "rules": ""
+        },
+        {
+            "name": "cic_perf_backup",
+            "rules": ""
+        },
+        {
+            "name": "cic_pv_t2b_001",
+            "rules": ""
+        },
+        {
+            "name": "cic_rms_1",
+            "rules": ""
+        },
+        {
+            "name": "cic_testdata",
+            "rules": ""
+        },
+        {
+            "name": "cic_viva",
+            "rules": ""
+        },
+        {
+            "name": "cic_viva1",
+            "rules": ""
+        },
+        {
+            "name": "cic_vls",
+            "rules": ""
+        },
+        {
+            "name": "cic_vse",
+            "rules": ""
+        },
+        {
+            "name": "cic_vse_integ",
+            "rules": ""
+        },
+        {
+            "name": "cicpv_blr",
+            "rules": ""
+        },
+        {
+            "name": "clarity_noida_proj1_t1nb",
+            "rules": ""
+        },
+        {
+            "name": "cm_p4pocrd1",
+            "rules": ""
+        },
+        {
+            "name": "csc_vol1",
+            "rules": ""
+        },
+        {
+            "name": "custom_ic_&_pcb_group_csv_spectrepe_testout4",
+            "rules": ""
+        },
+        {
+            "name": "cts_builds",
+            "rules": ""
+        },
+        {
+            "name": "cts_home_sthoke",
+            "rules": ""
+        },
+        {
+            "name": "cts_vol02",
+            "rules": ""
+        },
+        {
+            "name": "customer_vol01",
+            "rules": ""
+        },
+        {
+            "name": "cva_UTH",
+            "rules": ""
+        },
+        {
+            "name": "cva_avip_ve",
+            "rules": ""
+        },
+        {
+            "name": "cva_cad",
+            "rules": ""
+        },
+        {
+            "name": "cva_grid",
+            "rules": ""
+        },
+        {
+            "name": "cva_ixcom_dev",
+            "rules": ""
+        },
+        {
+            "name": "cva_p4depotdata",
+            "rules": ""
+        },
+        {
+            "name": "cva_protiumTests",
+            "rules": ""
+        },
+        {
+            "name": "cva_ptmMemImages_3",
+            "rules": ""
+        },
+        {
+            "name": "cva_ptmreg6",
+            "rules": ""
+        },
+        {
+            "name": "cva_ptmreg7",
+            "rules": ""
+        },
+        {
+            "name": "cva_pv",
+            "rules": ""
+        },
+        {
+            "name": "cva_pv_results",
+            "rules": ""
+        },
+        {
+            "name": "cva_pv_scratch",
+            "rules": ""
+        },
+        {
+            "name": "cva_pv_scratch3",
+            "rules": ""
+        },
+        {
+            "name": "cva_pv_scratch_test10",
+            "rules": ""
+        },
+        {
+            "name": "cva_pv_scratch_test11",
+            "rules": ""
+        },
+        {
+            "name": "cva_pv_scratch_test4",
+            "rules": ""
+        },
+        {
+            "name": "cva_pv_scratch_test6",
+            "rules": ""
+        },
+        {
+            "name": "cva_pv_scratch_test7",
+            "rules": ""
+        },
+        {
+            "name": "cva_pv_scratch_test9",
+            "rules": ""
+        },
+        {
+            "name": "cva_rpp_tools",
+            "rules": ""
+        },
+        {
+            "name": "cva_slowness_test",
+            "rules": ""
+        },
+        {
+            "name": "cva_source",
+            "rules": ""
+        },
+        {
+            "name": "cva_tool_XLM_nobkup",
+            "rules": ""
+        },
+        {
+            "name": "cva_vb_scratch",
+            "rules": ""
+        },
+        {
+            "name": "cva_view",
+            "rules": ""
+        },
+        {
+            "name": "cva_vobstore",
+            "rules": ""
+        },
+        {
+            "name": "cvapv_sa",
+            "rules": ""
+        },
+        {
+            "name": "ddi_infra_rd_001",
+            "rules": ""
+        },
+        {
+            "name": "denali_cvs",
+            "rules": ""
+        },
+        {
+            "name": "denali_designIP",
+            "rules": ""
+        },
+        {
+            "name": "denali_pcie",
+            "rules": ""
+        },
+        {
+            "name": "denali_project_vol04",
+            "rules": ""
+        },
+        {
+            "name": "denali_scratch_pcie",
+            "rules": ""
+        },
+        {
+            "name": "denali_scratch_vol03",
+            "rules": ""
+        },
+        {
+            "name": "denali_scratch_vol04",
+            "rules": ""
+        },
+        {
+            "name": "denali_t1b_project_vol03",
+            "rules": ""
+        },
+        {
+            "name": "denali_t1nb_scratch_usbssp",
+            "rules": ""
+        },
+        {
+            "name": "dfm_assura1",
+            "rules": ""
+        },
+        {
+            "name": "dfm_dft_data",
+            "rules": ""
+        },
+        {
+            "name": "dig_verification",
+            "rules": ""
+        },
+        {
+            "name": "digic_celtic",
+            "rules": ""
+        },
+        {
+            "name": "digic_pearl",
+            "rules": ""
+        },
+        {
+            "name": "digic_soce",
+            "rules": ""
+        },
+        {
+            "name": "digic_timing",
+            "rules": ""
+        },
+        {
+            "name": "dscratch02",
+            "rules": ""
+        },
+        {
+            "name": "dv_SunOS_x86",
+            "rules": ""
+        },
+        {
+            "name": "dv_SunOS_x86_tools",
+            "rules": ""
+        },
+        {
+            "name": "dv_archive",
+            "rules": ""
+        },
+        {
+            "name": "dv_autointeg",
+            "rules": ""
+        },
+        {
+            "name": "dv_ep_new",
+            "rules": ""
+        },
+        {
+            "name": "dv_linux",
+            "rules": ""
+        },
+        {
+            "name": "dv_locks",
+            "rules": ""
+        },
+        {
+            "name": "dv_project",
+            "rules": ""
+        },
+        {
+            "name": "dv_project1",
+            "rules": ""
+        },
+        {
+            "name": "dv_reviewboard",
+            "rules": ""
+        },
+        {
+            "name": "dv_sc_header_integ_t2nb",
+            "rules": ""
+        },
+        {
+            "name": "dv_scratch_bk",
+            "rules": ""
+        },
+        {
+            "name": "eps2",
+            "rules": ""
+        },
+        {
+            "name": "esd_noida",
+            "rules": ""
+        },
+        {
+            "name": "et_noi_T1_vol01",
+            "rules": ""
+        },
+        {
+            "name": "ethernetphy",
+            "rules": ""
+        },
+        {
+            "name": "fac_regression",
+            "rules": ""
+        },
+        {
+            "name": "fattire",
+            "rules": ""
+        },
+        {
+            "name": "fed_T1B_v9201",
+            "rules": ""
+        },
+        {
+            "name": "fed_T1_3211",
+            "rules": ""
+        },
+        {
+            "name": "fed_T2B_5210",
+            "rules": ""
+        },
+        {
+            "name": "fed_T2B_v0202",
+            "rules": ""
+        },
+        {
+            "name": "fed_T2B_v9201",
+            "rules": ""
+        },
+        {
+            "name": "fed_T2_5311",
+            "rules": ""
+        },
+        {
+            "name": "fed_T2_6303",
+            "rules": ""
+        },
+        {
+            "name": "fed_noi_T2_vol03",
+            "rules": ""
+        },
+        {
+            "name": "fed_temporary_space",
+            "rules": ""
+        },
+        {
+            "name": "digital_&_signoff_group_fed_temporary_space_till25thAug2021",
+            "rules": ""
+        },
+        {
+            "name": "fed_vol01",
+            "rules": ""
+        },
+        {
+            "name": "flex_user",
+            "rules": ""
+        },
+        {
+            "name": "flex_vol_atulg",
+            "rules": ""
+        },
+        {
+            "name": "flex_vol_atulg_flexclone1",
+            "rules": ""
+        },
+        {
+            "name": "flexlogs",
+            "rules": ""
+        },
+        {
+            "name": "flowtest_testing",
+            "rules": ""
+        },
+        {
+            "name": "forrest",
+            "rules": ""
+        },
+        {
+            "name": "forrest_nosnap",
+            "rules": ""
+        },
+        {
+            "name": "fsc_vol1",
+            "rules": ""
+        },
+        {
+            "name": "gargim_vol1",
+            "rules": ""
+        },
+        {
+            "name": "gcc_clarity3d",
+            "rules": ""
+        },
+        {
+            "name": "gcc_icd_users",
+            "rules": ""
+        },
+        {
+            "name": "gcc_vol01",
+            "rules": ""
+        },
+        {
+            "name": "graphite_data",
+            "rules": ""
+        },
+        {
+            "name": "graphite_data_new",
+            "rules": ""
+        },
+        {
+            "name": "grid_common_vippv_t1nb",
+            "rules": ""
+        },
+        {
+            "name": "grid_ilab",
+            "rules": ""
+        },
+        {
+            "name": "grid_ilab_vol02",
+            "rules": ""
+        },
+        {
+            "name": "grid_it_common",
+            "rules": ""
+        },
+        {
+            "name": "grid_madajaju",
+            "rules": ""
+        },
+        {
+            "name": "grid_sfi",
+            "rules": ""
+        },
+        {
+            "name": "grid_sfi_admin",
+            "rules": ""
+        },
+        {
+            "name": "ww_it_admin_grid_sfi_farm1",
+            "rules": ""
+        },
+        {
+            "name": "grp_extpv",
+            "rules": ""
+        },
+        {
+            "name": "gsaurabh_vol",
+            "rules": ""
+        },
+        {
+            "name": "guptar_data",
+            "rules": ""
+        },
+        {
+            "name": "guptar_vol1",
+            "rules": ""
+        },
+        {
+            "name": "haifa_scratch",
+            "rules": ""
+        },
+        {
+            "name": "harsha_vol1",
+            "rules": ""
+        },
+        {
+            "name": "hdmidp",
+            "rules": ""
+        },
+        {
+            "name": "hgroot_noida",
+            "rules": ""
+        },
+        {
+            "name": "hierflow",
+            "rules": ""
+        },
+        {
+            "name": "hls_lgb",
+            "rules": ""
+        },
+        {
+            "name": "hls_release",
+            "rules": ""
+        },
+        {
+            "name": "home_webstorage_noida",
+            "rules": ""
+        },
+        {
+            "name": "hsv_t1b_p4_02",
+            "rules": ""
+        },
+        {
+            "name": "custom_ic_&_pcb_group_icd_ccache_t1nb",
+            "rules": ""
+        },
+        {
+            "name": "icd_cmstore2",
+            "rules": ""
+        },
+        {
+            "name": "custom_ic_&_pcb_group_icd_common",
+            "rules": ""
+        },
+        {
+            "name": "icd_dsk_home",
+            "rules": ""
+        },
+        {
+            "name": "icd_ft",
+            "rules": ""
+        },
+        {
+            "name": "icd_ipostore",
+            "rules": ""
+        },
+        {
+            "name": "icd_mig",
+            "rules": ""
+        },
+        {
+            "name": "icd_vol02",
+            "rules": ""
+        },
+        {
+            "name": "icd_vpsstore1",
+            "rules": ""
+        },
+        {
+            "name": "custom_ic_&_pcb_group_icdp4India_p4store_t1b",
+            "rules": ""
+        },
+        {
+            "name": "icdpv_write_vol01",
+            "rules": ""
+        },
+        {
+            "name": "ifx_6070",
+            "rules": ""
+        },
+        {
+            "name": "il_rels_all",
+            "rules": ""
+        },
+        {
+            "name": "import",
+            "rules": ""
+        },
+        {
+            "name": "inciccm_v11",
+            "rules": ""
+        },
+        {
+            "name": "inciccm_v41",
+            "rules": ""
+        },
+        {
+            "name": "incicpv_ifx",
+            "rules": ""
+        },
+        {
+            "name": "incicpv_ifx2",
+            "rules": ""
+        },
+        {
+            "name": "incicpv_perf",
+            "rules": ""
+        },
+        {
+            "name": "incicpv_v1",
+            "rules": ""
+        },
+        {
+            "name": "incicpv_v2",
+            "rules": ""
+        },
+        {
+            "name": "incicpv_v3",
+            "rules": ""
+        },
+        {
+            "name": "incicpv_v4",
+            "rules": ""
+        },
+        {
+            "name": "incicpv_v5",
+            "rules": ""
+        },
+        {
+            "name": "incicpv_v6",
+            "rules": ""
+        },
+        {
+            "name": "incicpv_v7",
+            "rules": ""
+        },
+        {
+            "name": "incicpv_v8",
+            "rules": ""
+        },
+        {
+            "name": "indago",
+            "rules": ""
+        },
+        {
+            "name": "infosec_vol01",
+            "rules": ""
+        },
+        {
+            "name": "ipg_sdhc",
+            "rules": ""
+        },
+        {
+            "name": "it_home",
+            "rules": ""
+        },
+        {
+            "name": "it_oracle_images",
+            "rules": ""
+        },
+        {
+            "name": "jasper_fav_scripts",
+            "rules": ""
+        },
+        {
+            "name": "jasper_reg_diva",
+            "rules": ""
+        },
+        {
+            "name": "jasper_stor_home",
+            "rules": ""
+        },
+        {
+            "name": "jasper_valve5",
+            "rules": ""
+        },
+        {
+            "name": "jenkins_data",
+            "rules": ""
+        },
+        {
+            "name": "jenkins_space",
+            "rules": ""
+        },
+        {
+            "name": "jg_t1b_build",
+            "rules": ""
+        },
+        {
+            "name": "jg_t2b_test",
+            "rules": ""
+        },
+        {
+            "name": "jganesh_vol",
+            "rules": ""
+        },
+        {
+            "name": "jganesh_vol1",
+            "rules": ""
+        },
+        {
+            "name": "kat_USBHS",
+            "rules": ""
+        },
+        {
+            "name": "kb_backup",
+            "rules": ""
+        },
+        {
+            "name": "kumard_vol",
+            "rules": ""
+        },
+        {
+            "name": "kumard_vol1",
+            "rules": ""
+        },
+        {
+            "name": "kunal_testvol",
+            "rules": ""
+        },
+        {
+            "name": "lbansal_nrm_nocc_final",
+            "rules": ""
+        },
+        {
+            "name": "lbansal_nrm_nocc_test",
+            "rules": ""
+        },
+        {
+            "name": "lbansal_nrm_snapview_test",
+            "rules": ""
+        },
+        {
+            "name": "mauj_test",
+            "rules": ""
+        },
+        {
+            "name": "custom_ic_&_pcb_group_mfg_release",
+            "rules": ""
+        },
+        {
+            "name": "mmsimcm_v1",
+            "rules": ""
+        },
+        {
+            "name": "modus_asan_runs",
+            "rules": ""
+        },
+        {
+            "name": "mroy_vol1",
+            "rules": ""
+        },
+        {
+            "name": "nagios_backup",
+            "rules": ""
+        },
+        {
+            "name": "noi01nb01_DR",
+            "rules": ""
+        },
+        {
+            "name": "noi02nb01_DR",
+            "rules": ""
+        },
+        {
+            "name": "noi02nb03_D2D_Vol1",
+            "rules": ""
+        },
+        {
+            "name": "noi_db_grafana",
+            "rules": ""
+        },
+        {
+            "name": "noi_eod",
+            "rules": ""
+        },
+        {
+            "name": "noida_ead",
+            "rules": ""
+        },
+        {
+            "name": "noida_p4server_backup",
+            "rules": ""
+        },
+        {
+            "name": "noivdi_images",
+            "rules": ""
+        },
+        {
+            "name": "noiwebdb_backup",
+            "rules": ""
+        },
+        {
+            "name": "p4Cmnd",
+            "rules": ""
+        },
+        {
+            "name": "p4Cusers01nd",
+            "rules": ""
+        },
+        {
+            "name": "p4_ptm",
+            "rules": ""
+        },
+        {
+            "name": "p4_pv",
+            "rules": ""
+        },
+        {
+            "name": "p4depotdata_vipp4in",
+            "rules": ""
+        },
+        {
+            "name": "p4depotdata_vipp4in_abc",
+            "rules": ""
+        },
+        {
+            "name": "p4m",
+            "rules": ""
+        },
+        {
+            "name": "p4mC",
+            "rules": ""
+        },
+        {
+            "name": "p4mnd",
+            "rules": ""
+        },
+        {
+            "name": "p4users",
+            "rules": ""
+        },
+        {
+            "name": "p4users01hsvnd",
+            "rules": ""
+        },
+        {
+            "name": "pcie_ide",
+            "rules": ""
+        },
+        {
+            "name": "pcie_vip_perforce",
+            "rules": ""
+        },
+        {
+            "name": "perf",
+            "rules": ""
+        },
+        {
+            "name": "poc_avs151_rel",
+            "rules": ""
+        },
+        {
+            "name": "poc_avs151_rel_msCust_india_sfv_noreldirs",
+            "rules": ""
+        },
+        {
+            "name": "process",
+            "rules": ""
+        },
+        {
+            "name": "proj15a",
+            "rules": ""
+        },
+        {
+            "name": "psd_psdstore7",
+            "rules": ""
+        },
+        {
+            "name": "psf_xl_benchmark",
+            "rules": ""
+        },
+        {
+            "name": "ptmExportArea",
+            "rules": ""
+        },
+        {
+            "name": "pubtools_munish_temp",
+            "rules": ""
+        },
+        {
+            "name": "pv_abv_pv",
+            "rules": ""
+        },
+        {
+            "name": "pv_dv_pv",
+            "rules": ""
+        },
+        {
+            "name": "pv_qa_repository",
+            "rules": ""
+        },
+        {
+            "name": "pv_qor_test",
+            "rules": ""
+        },
+        {
+            "name": "pv_scratch_rpp",
+            "rules": ""
+        },
+        {
+            "name": "pv_tvm",
+            "rules": ""
+        },
+        {
+            "name": "pv_voltus_t1b_001",
+            "rules": ""
+        },
+        {
+            "name": "pv_voltus_t1b_002",
+            "rules": ""
+        },
+        {
+            "name": "qrc_n16_pilot",
+            "rules": ""
+        },
+        {
+            "name": "r_old",
+            "rules": ""
+        },
+        {
+            "name": "r_regress",
+            "rules": ""
+        },
+        {
+            "name": "r_repos",
+            "rules": ""
+        },
+        {
+            "name": "r_scratch",
+            "rules": ""
+        },
+        {
+            "name": "r_scripts",
+            "rules": ""
+        },
+        {
+            "name": "r_tools",
+            "rules": ""
+        },
+        {
+            "name": "rawath_data",
+            "rules": ""
+        },
+        {
+            "name": "rels",
+            "rules": ""
+        },
+        {
+            "name": "rgautamTI_project",
+            "rules": ""
+        },
+        {
+            "name": "rhev_backup_vol01",
+            "rules": ""
+        },
+        {
+            "name": "ripul_data",
+            "rules": ""
+        },
+        {
+            "name": "rppreg",
+            "rules": ""
+        },
+        {
+            "name": "rppreg2",
+            "rules": ""
+        },
+        {
+            "name": "scp_fw01",
+            "rules": ""
+        },
+        {
+            "name": "sd4hc_data",
+            "rules": ""
+        },
+        {
+            "name": "serdes_umc_salvo_wf_temp",
+            "rules": ""
+        },
+        {
+            "name": "sev_cm_utils_cache",
+            "rules": ""
+        },
+        {
+            "name": "sev_dsk_home_ind01",
+            "rules": ""
+        },
+        {
+            "name": "sev_grp_an_gui",
+            "rules": ""
+        },
+        {
+            "name": "sev_grp_ind_an01",
+            "rules": ""
+        },
+        {
+            "name": "sev_grp_ind_an02",
+            "rules": ""
+        },
+        {
+            "name": "sev_grp_pe_data01",
+            "rules": ""
+        },
+        {
+            "name": "sev_grp_pv_qehome",
+            "rules": ""
+        },
+        {
+            "name": "sev_ind_vol04",
+            "rules": ""
+        },
+        {
+            "name": "sev_vol01",
+            "rules": ""
+        },
+        {
+            "name": "sfi_hpc",
+            "rules": ""
+        },
+        {
+            "name": "sfi_it_connections",
+            "rules": ""
+        },
+        {
+            "name": "sfi_matrix05",
+            "rules": ""
+        },
+        {
+            "name": "sfi_pbs_var",
+            "rules": ""
+        },
+        {
+            "name": "sfi_rtm",
+            "rules": ""
+        },
+        {
+            "name": "sgautam_temp",
+            "rules": ""
+        },
+        {
+            "name": "custom_ic_&_pcb_group_sigrity_fort10",
+            "rules": ""
+        },
+        {
+            "name": "sk_test3",
+            "rules": ""
+        },
+        {
+            "name": "slt_backup",
+            "rules": ""
+        },
+        {
+            "name": "sol_p4_client_test_runs_t1nb",
+            "rules": ""
+        },
+        {
+            "name": "spbcrash_space",
+            "rules": ""
+        },
+        {
+            "name": "spmn_ep_temp",
+            "rules": ""
+        },
+        {
+            "name": "stor_home02",
+            "rules": ""
+        },
+        {
+            "name": "stor_home03",
+            "rules": ""
+        },
+        {
+            "name": "stor_home04",
+            "rules": ""
+        },
+        {
+            "name": "stor_home05",
+            "rules": ""
+        },
+        {
+            "name": "stor_srm",
+            "rules": ""
+        },
+        {
+            "name": "storage_logs",
+            "rules": ""
+        },
+        {
+            "name": "svcs_in_nbkup",
+            "rules": ""
+        },
+        {
+            "name": "svg_mysql",
+            "rules": ""
+        },
+        {
+            "name": "swjain_vol1",
+            "rules": ""
+        },
+        {
+            "name": "syn_home",
+            "rules": ""
+        },
+        {
+            "name": "syn_rc",
+            "rules": ""
+        },
+        {
+            "name": "syn_rcqor",
+            "rules": ""
+        },
+        {
+            "name": "syntech_no_t2b",
+            "rules": ""
+        },
+        {
+            "name": "syntech_no_t2nb",
+            "rules": ""
+        },
+        {
+            "name": "temp_extpe_till_dec17",
+            "rules": ""
+        },
+        {
+            "name": "temp_ratnakar",
+            "rules": ""
+        },
+        {
+            "name": "temp_ssomani",
+            "rules": ""
+        },
+        {
+            "name": "tfo_home",
+            "rules": ""
+        },
+        {
+            "name": "tfo_intel_vorm01",
+            "rules": ""
+        },
+        {
+            "name": "tfo_noida6",
+            "rules": ""
+        },
+        {
+            "name": "tfo_noida7",
+            "rules": ""
+        },
+        {
+            "name": "tlm_ip",
+            "rules": ""
+        },
+        {
+            "name": "tool_method",
+            "rules": ""
+        },
+        {
+            "name": "tools_vol01",
+            "rules": ""
+        },
+        {
+            "name": "ww_it_admin_tp_tools_backup",
+            "rules": ""
+        },
+        {
+            "name": "ubuild_scratch",
+            "rules": ""
+        },
+        {
+            "name": "usb_hermes_t12ffc_tc",
+            "rules": ""
+        },
+        {
+            "name": "usb_jenkins",
+            "rules": ""
+        },
+        {
+            "name": "vdi_data",
+            "rules": ""
+        },
+        {
+            "name": "vdi_scratch_01",
+            "rules": ""
+        },
+        {
+            "name": "vdi_scratch_02",
+            "rules": ""
+        },
+        {
+            "name": "viewstore3",
+            "rules": ""
+        },
+        {
+            "name": "vip_abc",
+            "rules": ""
+        },
+        {
+            "name": "vip_customer_support",
+            "rules": ""
+        },
+        {
+            "name": "vip_pipephy_scratch",
+            "rules": ""
+        },
+        {
+            "name": "vip_scratch",
+            "rules": ""
+        },
+        {
+            "name": "vip_solutions",
+            "rules": ""
+        },
+        {
+            "name": "vip_vorm_vol01",
+            "rules": ""
+        },
+        {
+            "name": "vip_workspace",
+            "rules": ""
+        },
+        {
+            "name": "vobstore",
+            "rules": ""
+        },
+        {
+            "name": "vobstore_nas_in1",
+            "rules": ""
+        },
+        {
+            "name": "vobstore_nas_in2",
+            "rules": ""
+        },
+        {
+            "name": "vol_envpv1",
+            "rules": ""
+        },
+        {
+            "name": "vol_srahman",
+            "rules": ""
+        },
+        {
+            "name": "voltus_t2nb",
+            "rules": ""
+        },
+        {
+            "name": "vormetric_tfo5",
+            "rules": ""
+        },
+        {
+            "name": "vs0_root",
+            "rules": ""
+        },
+        {
+            "name": "vs0_root_p1",
+            "rules": ""
+        },
+        {
+            "name": "vs0_root_p10",
+            "rules": ""
+        },
+        {
+            "name": "vs0_root_p2",
+            "rules": ""
+        },
+        {
+            "name": "vs0_root_p5",
+            "rules": ""
+        },
+        {
+            "name": "vs0_root_p6",
+            "rules": ""
+        },
+        {
+            "name": "vs0_root_p7",
+            "rules": ""
+        },
+        {
+            "name": "vs0_root_p8",
+            "rules": ""
+        },
+        {
+            "name": "vs0_root_p9",
+            "rules": ""
+        },
+        {
+            "name": "vs0_root_s1",
+            "rules": ""
+        },
+        {
+            "name": "vs0_root_s2",
+            "rules": ""
+        },
+        {
+            "name": "wuxi_tsmc28hpcp_72bit_phy",
+            "rules": ""
+        },
+        {
+            "name": "xtensa_tools",
+            "rules": ""
+        },
+        {
+            "name": "zfed_project",
+            "rules": ""
+        },
+        {
+            "name": "esx_infra_win_db_vol01",
+            "rules": ""
+        },
+        {
+            "name": "esx_infra_win_vdi01",
+            "rules": ""
+        },
+        {
+            "name": "esx_infra_win_vdi02",
+            "rules": ""
+        },
+        {
+            "name": "esx_infra_win_vdi03",
+            "rules": ""
+        },
+        {
+            "name": "esx_infra_win_vdi04",
+            "rules": ""
+        },
+        {
+            "name": "esx_noi_spbvdi_01_nfs01",
+            "rules": ""
+        },
+        {
+            "name": "esx_noi_spbvdi_01_nfs02",
+            "rules": ""
+        },
+        {
+            "name": "esx_noi_spbvdi_01_nfs03",
+            "rules": ""
+        },
+        {
+            "name": "esx_noi_vdi_02_gcs_nfs01",
+            "rules": ""
+        },
+        {
+            "name": "esx_noi_vdi_02_gcs_nfs02",
+            "rules": ""
+        },
+        {
+            "name": "esx_spb_infra_vdi01",
+            "rules": ""
+        },
+        {
+            "name": "esx_unix_infra_vdi01",
+            "rules": ""
+        },
+        {
+            "name": "esx_unix_infra_vdi02",
+            "rules": ""
+        },
+        {
+            "name": "esx_user_win_vdi01",
+            "rules": ""
+        },
+        {
+            "name": "esx_windows_infra_vdi04",
+            "rules": ""
+        },
+        {
+            "name": "noi_unix_vdi_01_nfs01_active",
+            "rules": ""
+        },
+        {
+            "name": "noi_unix_vdi_01_nfs02_active",
+            "rules": ""
+        },
+        {
+            "name": "vdi_prd_images",
+            "rules": ""
+        },
+        {
+            "name": "vdi_temp_farm_vikash",
+            "rules": ""
+        },
+        {
+            "name": "vs_vdi_root",
+            "rules": ""
+        },
+        {
+            "name": "vs_vdi_root_p1",
+            "rules": ""
+        },
+        {
+            "name": "vs_vdi_root_p10",
+            "rules": ""
+        },
+        {
+            "name": "vs_vdi_root_p2",
+            "rules": ""
+        },
+        {
+            "name": "vs_vdi_root_p5",
+            "rules": ""
+        },
+        {
+            "name": "vs_vdi_root_p6",
+            "rules": ""
+        },
+        {
+            "name": "vs_vdi_root_p7",
+            "rules": ""
+        },
+        {
+            "name": "vs_vdi_root_p8",
+            "rules": ""
+        },
+        {
+            "name": "vs_vdi_root_p9",
+            "rules": ""
+        },
+        {
+            "name": "vs_vdi_root_s1",
+            "rules": ""
+        },
+        {
+            "name": "vs_vdi_root_s2",
+            "rules": ""
+        }
+    ]
+}
